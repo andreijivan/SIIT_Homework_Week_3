@@ -21,7 +21,7 @@ public class Main {
         carturesti.deleteBook(novel1);
         carturesti.listBooks();
         carturesti.deleteBook(novel1); // test for deleteBook
-        System.out.println("test");
+
 
     }
 
